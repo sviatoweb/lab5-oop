@@ -1,8 +1,9 @@
 package flower.store;
 
 import lombok.AllArgsConstructor;
+import lombok.Getter;
 
-@AllArgsConstructor
+@AllArgsConstructor @Getter
 public class FlowerPack {
     private Flower flower;
     private int quantity;

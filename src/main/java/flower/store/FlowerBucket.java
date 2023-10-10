@@ -2,7 +2,6 @@ package flower.store;
 
 import java.util.ArrayList;
 
-import lombok.Getter;
 
 
 public class FlowerBucket {
